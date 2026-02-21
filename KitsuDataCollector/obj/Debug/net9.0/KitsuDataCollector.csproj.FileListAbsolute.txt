@@ -1,0 +1,12 @@
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/bin/Debug/net9.0/KitsuDataCollector.deps.json
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/bin/Debug/net9.0/KitsuDataCollector.dll
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/bin/Debug/net9.0/KitsuDataCollector.pdb
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.csproj.AssemblyReference.cache
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.AssemblyInfoInputs.cache
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.AssemblyInfo.cs
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.csproj.CoreCompileInputs.cache
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.dll
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/refint/KitsuDataCollector.dll
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/KitsuDataCollector.pdb
+/Users/pshytikov/projects/KitsuDataCollector/KitsuDataCollector/obj/Debug/net9.0/ref/KitsuDataCollector.dll
